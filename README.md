@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Pramuditha Rajadasa 👋
 
-<!--
-**PramudiR/PramudiR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a <a href = "https://www.indeed.com/career-advice/finding-a-job/research-engineers">Research Engineer. </a> I'm currently working on <a href = "https://tracified.com/2022/10/17/sustainability-reporting-get-through-the-regulatory-red-tape-and-attract-sustainable-investments/">Carbon Footprint and Environmental Sustainability</a> research area. I’m looking forword to expand my experience and knowledge in <a href = "https://www.ibm.com/cloud/learn/machine-learning">Machine Learning and Neural network</a>.
 
-Here are some ideas to get you started:
+I have completed following research projects during undergraduate years.
+<ul>
+  <li>Modeling Sri Lankan traffic accident casualties with spatio temporal data analysis.</li>
+  <li>Image analysis model to check and standerdize passport/visa photos</li>
+  <li>Developing a machine learning model to identify Airline passenger satisfaction</li>
+  <li>Developing a machine learning model to recognize the reasons behind Employee Attrition</li>
+  <li>A prediction model to predict App rating on Google Play Store</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may check following simple tutorial projects I have published for Data Science and Machine Learning enthusiasts.
+<ul>
+  <li><a href = "https://www.kaggle.com/code/st4035s12942/descriptive-analysis-on-bike-share/notebook">Descriptive Analysis on Bike Share</a></li>
+  <li><a href = "https://www.kaggle.com/code/st4035s12942/predicting-bike-rental-demand-ridge-lasso/notebook">Predicting Bike Rental Demand - Ridge & Lasso</a></li>
+  <li><a href = "https://replit.com/@Pro59/PA-program#main.py">Personnel Assistent Discord Bot</a></li>
+</ul>
+
+### Reach me: 
+<a href = "https://www.linkedin.com/in/pramuditha-rajadasa-b0157917b/"><img src="https://icon.signature.email/social/linkedin-rounded-small-0077b5-FFFFFF.png"></a>   &nbsp; &nbsp; <a href = "discordapp.com/users/1005034665276616734"><img src = "https://icon.signature.email/social/discord-rounded-small-7289da-FFFFFF.png"></a>
