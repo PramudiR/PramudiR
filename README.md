@@ -16,6 +16,7 @@ You may check following simple tutorial projects I have published for Data Scien
   <li><a href = "https://www.kaggle.com/code/st4035s12942/descriptive-analysis-on-bike-share/notebook">Descriptive Analysis on Bike Share</a></li>
   <li><a href = "https://www.kaggle.com/code/st4035s12942/predicting-bike-rental-demand-ridge-lasso/notebook">Predicting Bike Rental Demand - Ridge & Lasso</a></li>
   <li><a href = "https://replit.com/@Pro59/PA-program#main.py">Personnel Assistent Discord Bot</a></li>
+  <li><a href = "https://www.kaggle.com/code/st4035s12942/full-eda-on-google-play-store">Full EDA on Google Play Store</a></li>
 </ul>
 
 ### Reach me: 
