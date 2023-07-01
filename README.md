@@ -1,8 +1,8 @@
-### Hi there, I'm Pramuditha Rajadasa 👋
+## Hi there, I'm Pramuditha Rajadasa 👋
 
 I am a <a href = "https://www.indeed.com/career-advice/finding-a-job/research-engineers">Research Engineer. </a> I'm currently working on <a href = "https://tracified.com/2022/10/17/sustainability-reporting-get-through-the-regulatory-red-tape-and-attract-sustainable-investments/">Carbon Footprint and Environmental Sustainability</a> research area. I’m looking forword to expand my experience and knowledge in <a href = "https://www.ibm.com/cloud/learn/machine-learning">Machine Learning and Neural network</a>.
 
-I have completed following research projects during undergraduate years.
+Following project Ideas I have done in my undergrad years might be a good starting point for your own Data Science and Machine Learning journey.
 <ul>
   <li>Modeling Sri Lankan traffic accident casualties with spatio temporal data analysis.</li>
   <li>Image analysis model to check and standerdize passport/visa photos</li>
