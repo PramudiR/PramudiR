@@ -1,4 +1,4 @@
-## Hi there, I'm Pramuditha Rajadasa 👋
+## Hi there! I fancy seeing you here... 👋
 
 I am a [Research Engineer](https://www.indeed.com/career-advice/finding-a-job/research-engineers). I'm currently working on [Carbon Footprint and Environmental Sustainability](https://tracified.com/2022/10/17/sustainability-reporting-get-through-the-regulatory-red-tape-and-attract-sustainable-investments/) research area. I’m looking forword to expand my experience and knowledge in [Machine Learning and Neural network](https://www.ibm.com/cloud/learn/machine-learning).
 
