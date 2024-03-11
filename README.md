@@ -20,4 +20,4 @@ You may check following simple tutorial projects I have published for Data Scien
  - [Full EDA on Google Play Store](https://www.kaggle.com/code/st4035s12942/full-eda-on-google-play-store).
 
 ### Reach me via.: 
-<a href = "https://www.linkedin.com/in/pramuditha-rajadasa-b0157917b/"><img src="https://icon.signature.email/social/linkedin-rounded-small-0077b5-FFFFFF.png"></a>   &nbsp; &nbsp; <a href = "discordapp.com/users/1005034665276616734"><img src = "https://icon.signature.email/social/discord-rounded-small-7289da-FFFFFF.png"></a>
+<a href = "https://www.linkedin.com/in/pramuditha-rajadasa-b0157917b/"><img src="https://icon.signature.email/social/linkedin-rounded-small-0077b5-FFFFFF.png"></a>   &nbsp; &nbsp; <a href = "https://discordapp.com/users/1005034665276616734"><img src = "https://icon.signature.email/social/discord-rounded-small-7289da-FFFFFF.png"></a>
