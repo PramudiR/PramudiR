@@ -2,22 +2,25 @@
 
 I am a [Research Engineer](https://www.indeed.com/career-advice/finding-a-job/research-engineers). I'm currently working on [Carbon Footprint and Environmental Sustainability](https://tracified.com/2022/10/17/sustainability-reporting-get-through-the-regulatory-red-tape-and-attract-sustainable-investments/) research area. I’m looking forword to expand my experience and knowledge in [Machine Learning and Neural network](https://www.ibm.com/cloud/learn/machine-learning).
 
-Here are some project ideas that I have worked on during my Data Science and Machine Learning journey, which can serve as a great starting point for your own projects:
+Here are some of the project ideas that I have worked on during my Data Science and Machine Learning journey, hope you will find inspiration:
 
-- Built an LSTM neural network-based model with a RESTful API for forecasting Ethereum gas price changes in probabilities for the next hour.
-- Conducted a survey on supply chain carbon emissions and developed a model for calculating carbon footprints, providing insights into sustainable practices.
-- Analyzed spatio-temporal data of traffic accidents in Sri Lanka and developed a web solution with an insightful dashboard to understand and mitigate casualties.
-- Developed an image analysis model for checking and standardizing passport/visa photos, ensuring compliance with regulatory requirements.
-- Created a machine learning model to identify factors contributing to airline passenger satisfaction, providing actionable insights for improving customer experience.
-- Developed a predictive model to recognize the underlying reasons for employee attrition, helping organizations understand and address retention challenges.
-- Built a prediction model to estimate app ratings on the Google Play Store, assisting developers in optimizing their app's performance and user satisfaction.
+- Commercial Certificate Verifier : Supply chain certificate verification using Large Language Models.
+- Cold Chain Optimization : Harnessing the power of event tracking, data visualization and machine learning for Cold Chain management.
+- Digital Product Passport : Legal stronghold of circular economy within European Union.
+- AI-Driven Knowledge Navigator : AI Chat Engine for Complex JSON Querying.
+- Ethereum Gas Price Optimizer : A real time data collector and forecasting algorithm to predict the probability distribution of Ethereum gas price changes.
+- Navigating the Data Stream : Key considerations for a Supply Chain BI Dashboard.
+- Putting an End to Greenwashing : Validating carbon footprint calculations in Public Blockchain.
+- Time series count data model approach on Sri Lankan traffic accident casualties.
+- Enhancing Passport Image Compliance: A convolutional neural network-based standardizer.
 
-You may check following simple tutorial projects I have published for Data Science and Machine Learning enthusiasts:
+You may check following simple tutorial projects I have published for undergraduate level Data Science and Machine Learning enthusiasts:
 
  - [Descriptive Analysis on Bike Share](https://www.kaggle.com/code/st4035s12942/descriptive-analysis-on-bike-share/notebook).
  - [Predicting Bike Rental Demand - Ridge & Lasso](https://www.kaggle.com/code/st4035s12942/predicting-bike-rental-demand-ridge-lasso/notebook).
  - [Personnel Assistent Discord Bot](https://replit.com/@Pro59/PA-program#main.py).
  - [Full EDA on Google Play Store](https://www.kaggle.com/code/st4035s12942/full-eda-on-google-play-store).
 
+
 ### Reach me via.: 
-<a href = "https://www.linkedin.com/in/pramuditha-rajadasa-b0157917b/"><img src="https://icon.signature.email/social/linkedin-rounded-small-0077b5-FFFFFF.png"></a>   &nbsp; &nbsp; <a href = "https://discordapp.com/users/1005034665276616734"><img src = "https://icon.signature.email/social/discord-rounded-small-7289da-FFFFFF.png"></a>
+<a href = "https://www.linkedin.com/in/pramuditha-rajadasa-es/"><img height = "32" width = "32" src="https://img1.gimm.io/assets/social/96/native/8/linkedin.png"></a>   &nbsp; &nbsp; <a href = "https://discordapp.com/users/1005034665276616734"><img height = "32" width = "32" src = "https://img1.gimm.io/assets/social/96/native/8/discord.png"></a> &nbsp; &nbsp; <a href = "https://twitter.com/PramudithaHR"><img height = "32" width = "32" src = "https://img1.gimm.io/assets/social/96/native/6/x.png"></a> &nbsp; &nbsp; <a href = "https://www.instagram.com/raja_pixel/"><img height = "32" width = "32" src = "https://img1.gimm.io/assets/social/96/native/8/instagram.png"></a> &nbsp; &nbsp; <a href = "https://www.facebook.com/profile.php?id=100067635674865&mibextid=ZbWKwL"><img height = "32" width = "32" src = "https://img1.gimm.io/assets/social/96/native/8/facebook.png"></a> &nbsp; &nbsp; <a href = "https://medium.com/@pramudithar"><img height = "32" width = "32" src = "https://img1.gimm.io/assets/social/96/native/8/medium.png"></a> &nbsp; &nbsp; <a href = "https://t.me/ph95R"><img height = "32" width = "32" src = "https://img1.gimm.io/assets/social/96/native/8/telegram.png"></a>
