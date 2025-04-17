@@ -80,4 +80,4 @@ Outside of work, I explore the boundaries of generative creativity, experiment w
 ---
 
 **Thanks for stopping by!**  
-Feel free to explore my pinned projects or connect if you're interested in AI innovation, research, or building something meaningful together.
+Feel free to connect if you're interested in AI innovation, research, or building something meaningful together.
