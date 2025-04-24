@@ -8,11 +8,16 @@ Welcome to my GitHub! I'm a Senior AI/ML Engineer with a deep passion for turnin
 
 ## 🔍 What I'm Working On
 
-At **Life Intelligence Group**, I lead the architecture and development of advanced AI solutions — from intelligent chat systems to multi-modal generative engines. I specialize in full-stack AI engineering, combining LLMs, generative models, and custom-built pipelines into production-grade systems.
+At **Axion Solutions**, and **Kainovation Technologies** I cotribute to advanced AI systems with multi-agentic architechtures and versartile AI solutions. 
+
+At **Life Intelligence Group**, I lead the architecture and development of advanced AI solutions — from intelligent chat systems to multi-modal generative engines. 
+
+I specialize in full-stack AI engineering, combining LLMs, generative models, and custom-built pipelines into production-grade systems.
 
 ### Current Roles  
-- **Senior AI/ML Engineer** – Life Intelligence Group (🇦🇺)  
 - **Senior Data Scientist** – Kainovation Technologies & Axion Solutions (🇱🇰)
+- **Senior AI/ML Engineer** – Life Intelligence Group (🇦🇺)  
+
 
 ---
 
