@@ -1,19 +1,19 @@
 # 👋 Hey there, I'm Pramuditha Rajadasa
 
-🎯 **Senior AI/ML Engineer** | 🧠 **AI System Architect** | 🔬 **Research-Oriented Technologist**
+🎯 **Lead Software Engineer (AI / ML)** | 🧠 **AI System Architect** | 🔬 **Research-Oriented Technologist**
 
-Welcome to my GitHub! I'm a Senior AI/ML Engineer with a deep passion for turning intelligent systems into practical, scalable products. With strong roots in applied machine learning, generative AI, and systems integration, I build solutions that bridge research and real-world impact.
+Welcome to my GitHub! I'm a Lead Software Engineer with a deep passion for turning intelligent systems into practical, scalable products. With strong roots in applied machine learning, generative AI, and systems integration, I build solutions that bridge research and real-world impact.
 
 ---
 
 ## 🔍 What I'm Working On
 
-At **Axion Solutions** and **Kainovation Technologies**, I contribute to advanced AI systems with multi-agentic architectures and versatile AI solutions. 
+At **Virtusa**, I contribute to advanced AI systems with multi-agentic architectures and versatile AI solutions.
 
 I specialize in full-stack AI engineering, combining LLMs, generative models, and custom-built pipelines into production-grade systems.
 
 ### Current Roles  
-- **Senior Data Scientist** – Kainovation Technologies & Axion Solutions (🇱🇰)
+- **Lead Software Engineer** – Virtusa (🇱🇰 & 🇺🇸)
 
 ---
 
