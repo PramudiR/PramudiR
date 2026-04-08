@@ -13,7 +13,7 @@ At **Virtusa**, I contribute to advanced AI systems with multi-agentic architect
 I specialize in full-stack AI engineering, combining LLMs, generative models, and custom-built pipelines into production-grade systems.
 
 ### Current Roles  
-- **Lead Software Engineer** – Virtusa (🇱🇰 & 🇺🇸)
+- **Lead Software Engineer** – Virtusa (🇱🇰 / 🇺🇸)
 
 ---
 
