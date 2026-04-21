@@ -42,15 +42,18 @@ I specialize in full-stack AI engineering, combining LLMs, generative models, an
 
 ## 💼 Previously...
 
+**👩🏻‍💻 Senior Data Scientist** - *Kainovation Technologies (🇱🇰 / 🇦🇺)*  
+As the Senior Data Scientist, I was involved in AI product designing and leading engineering teams to develop system integrated and standalone AI functionalities
+
 **🤖 Senior AI/ML Engineer** – *Life Intelligence Group (🇦🇺)*  
 Architected and developed **Ari**, a sophisticated multi-agent AI engine integrated with the TaskSpur productivity platform. Built comprehensive task and goal management capabilities including:
 - Natural language task/goal creation and editing
-- Intelligent workflow management (todo → doing → done transitions)
+- Intelligent workflow management
 - Dynamic schedule analysis and optimization  
 - Smart rescheduling and deadline management based on user requests
 - Seamless OpenAI ChatGPT integration for enhanced user interactions
 
-**🔬 Research Engineer** – *Tracified (🇱🇰)*  
+**🔬 Research Engineer** – *Tracified (🇱🇰 / 🇯🇵)*  
 Blockchain-driven sustainability tracking, Ethereum-based analytics, and real-time cold chain optimization.
 
 **👨‍🏫 Graduate Academic Instructor** – *University of Colombo (🇱🇰)*  
